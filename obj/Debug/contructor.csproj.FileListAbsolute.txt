@@ -1,0 +1,7 @@
+D:\18.11.2250\New folder (2)\contructor\contructor\obj\Debug\contructor.csprojAssemblyReference.cache
+D:\18.11.2250\New folder (2)\contructor\contructor\obj\Debug\contructor.csproj.CoreCompileInputs.cache
+D:\18.11.2250\New folder (2)\contructor\contructor\bin\Debug\contructor.exe.config
+D:\18.11.2250\New folder (2)\contructor\contructor\bin\Debug\contructor.exe
+D:\18.11.2250\New folder (2)\contructor\contructor\bin\Debug\contructor.pdb
+D:\18.11.2250\New folder (2)\contructor\contructor\obj\Debug\contructor.exe
+D:\18.11.2250\New folder (2)\contructor\contructor\obj\Debug\contructor.pdb
